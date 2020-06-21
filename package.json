@@ -2,7 +2,7 @@
 	"name": "definitely-typed-search",
 	"displayName": "Definitely Typed Search",
 	"description": "Easy access to the Definitely Typed Search page from VS Code.",
-	"version": "0.0.1",
+	"version": "0.1.0",
 	"publisher": "NatalieMclaren",
 	"icon": "images/typescript-icon.png",
 	"repository": "https://github.com/nats12/vs-code-definitely-typed-search",
