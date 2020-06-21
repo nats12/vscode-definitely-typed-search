@@ -1,6 +1,6 @@
 {
 	"name": "definitely-typed-search",
-	"displayName": "definitely-typed-search",
+	"displayName": "Definitely Typed Search",
 	"description": "Easy access to the Definitely Typed Search page from VS Code.",
 	"version": "0.0.1",
 	"publisher": "NatalieMclaren",
